@@ -12,7 +12,7 @@ Welcome to my engineering portfolio repository! I'm Nathan Pereira, a mechanical
 
 ---
 
-## 📂 Portfolio Overview
+## 📂 Portfolio Overview : (./Nathan Pereira Portfolio_2025.pdf)
 
 ### **Resume**
 - [Download My Resume (PDF)](./Nathan_Pereira_Resume_2025.pdf)
