@@ -6,13 +6,13 @@ Welcome to my engineering portfolio repository! I'm Nathan Pereira, a mechanical
 
 ## 🌟 About Me
 
-- 🔧 **Experienced Intern**: Worked with industry leaders like Tesla, Toyota, and Solid Ultrabattery Inc., contributing to advancements in battery development, cell engineering, and process optimization.
+- 🔧 **Experienced Intern**: Worked with industry leaders like Tesla, Toyota, and Solid Ultrabattery Inc., contributing to advancements in battery development, cell engineering, and mechanical design.
 - 🎓 **Education**: Bachelor of Applied Science in Mechanical Engineering (2021–2026), specializing in materials testing, mechanical design, and automation.
-- 🏆 **Achievements**: Co-op Student of the Year nominee for impactful contributions to ISO 9001-compliant projects.
+- 🏆 **Achievements**: Co-op Student of the Year nominee for impactful contributions to ISO 9001-compliant projects, Port Union Photography Competition
 
 ---
 
-## 📂 Portfolio Overview : (./Nathan Pereira Portfolio_2025.pdf)
+## 📂 Portfolio Overview : [Download My Portfolio (PDF)](./NathanPereiraPortfolio_2025.pdf)
 
 ### **Resume**
 - [Download My Resume (PDF)](./Nathan_Pereira_Resume_2025.pdf)
